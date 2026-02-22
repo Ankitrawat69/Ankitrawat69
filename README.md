@@ -8,14 +8,11 @@
 <h3 align="center">
   🚀 Full Stack Java Developer
 </h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Primary%20Stack-Java-blue?style=for-the-badge&logo=java"/>
   <img src="https://img.shields.io/badge/Learning-SpringBoot-success?style=for-the-badge&logo=spring"/>
   <img src="https://img.shields.io/badge/Learning-Angular-red?style=for-the-badge&logo=angular"/>
 </p>
----
-
 ## 🚀 About Me
 
 - 💻 Java Developer with strong interest in backend development  
@@ -30,68 +27,29 @@
   <img src="https://img.shields.io/badge/Currently%20Exploring-SpringBoot-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-Angular-darkblue?style=for-the-badge"/>
 </p>
-
----
-
 ## 🛠 Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,aws,docker,kubernetes,jenkins,mysql,postgres,mongodb,linux" />
 </p>
-
----
-
 ## 📊 GitHub Overview
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitrawat69&theme=github_dark"/>
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankitrawat69&theme=github_dark"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankitrawat69&theme=github_dark"/>
 </p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankitrawat69&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
 <p align="center">
   ⭐ From <a href="https://github.com/Ankitrawat69">Ankitrawat69</a>
 </p>
-
-<!-- Bottom Banner -->
----
-
 <p align="center">
   🟢 <b>Code • Learn • Build • Repeat</b> 🟢
 </p>
-
-<!-- GREEN NEON FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=130&section=footer"/>
 </p>

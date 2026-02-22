@@ -1,3 +1,32 @@
+<!-- PREMIUM TOP BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=220&section=header&text=Ankit%20Rawat&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<h1 align="center">Hi 👋, I'm Ankit Rawat</h1>
+<h3 align="center">Full Stack Developer | Spring Boot | Angular</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1F6FEB&size=22&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Specialist;Angular+Frontend+Developer;Building+Scalable+Systems" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **Spring Boot & Angular Projects**
+- 🌱 Learning **Microservices & System Design**
+- 💡 Passionate about backend architecture & clean code
+- 📫 Reach me at: **your-email@example.com**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,aws,docker,kubernetes,jenkins,mysql,postgres,mongodb,linux" />
+</p>
+
 ---
 
 ## 📊 Developer Analytics
@@ -28,10 +57,11 @@
 </p>
 
 ---
+
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ankitrawat69&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Ankitrawat69&label=Profile%20Views&color=1F6FEB&style=flat" />
 </p>
 
 ---
@@ -40,7 +70,7 @@
   ⭐ From <a href="https://github.com/Ankitrawat69">Ankitrawat69</a>
 </p>
 
-<!-- Bottom Wave -->
+<!-- PREMIUM FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:283E51,100:4B79A1&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=120&section=footer"/>
 </p>

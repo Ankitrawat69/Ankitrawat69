@@ -2,14 +2,15 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Ankit%20Rawat&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Ankit Rawat</h1>
-<h3 align="center">💻 Java Developer</h3>
+<h3 align="center">
+  🚀 Full Stack Java Developer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4B79A1&size=22&center=true&vCenter=true&width=600&lines=Java+Developer;Learning+Spring+Boot;Learning+Angular;Building+Backend+Skills" />
+  <img src="https://img.shields.io/badge/Primary%20Stack-Java-blue?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Learning-SpringBoot-success?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/Learning-Angular-red?style=for-the-badge&logo=angular"/>
 </p>
-
 ---
 
 ## 🚀 About Me

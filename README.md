@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Hi%20👋,%20I'm%20Ankit%20Rawat&fontSize=38&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00E5FF&size=24&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Ankit+Rawat;Java+Developer;Learning+Spring+Boot+%26+Angular" />
 </p>
 <h3 align="center">
   🚀 Full Stack Java Developer

@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=200&section=header&text=Ankit%20Rawat&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B79A1,100:283E51&height=220&section=header&text=Hi%20👋,%20I'm%20Ankit%20Rawat&fontSize=38&fontColor=ffffff&animation=twinkling"/>
 </p>
 <h3 align="center">
   🚀 Full Stack Java Developer

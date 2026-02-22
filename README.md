@@ -4,13 +4,21 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ankit Rawat</h1>
-<h3 align="center">🚀 Full Stack Developer | Spring Boot | Angular</h3>
+<h3 align="center">💻 Java Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4B79A1&size=22&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Angular+Developer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4B79A1&size=22&center=true&vCenter=true&width=600&lines=Java+Developer;Core+Java+Enthusiast;Learning+Spring+Boot;Learning+Angular;Building+Backend+Skills" />
 </p>
 
 ---
+
+## 🚀 About Me
+
+- 💻 Java Developer with strong interest in backend development  
+- 🌱 Currently learning **Spring Boot & Angular**  
+- 🧠 Exploring **Microservices & REST APIs**  
+- 🎯 Goal: Become a skilled Full Stack Java Developer  
+- 📫 Reach me at: **your-email@example.com**
 
 ## 🚀 Currently Exploring
 

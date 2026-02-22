@@ -85,6 +85,13 @@
 </p>
 
 <!-- Bottom Banner -->
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:283E51,100:4B79A1&height=120&section=footer"/>
+  🟢 <b>Code • Learn • Build • Repeat</b> 🟢
+</p>
+
+<!-- GREEN NEON FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:39FF14&height=130&section=footer"/>
 </p>

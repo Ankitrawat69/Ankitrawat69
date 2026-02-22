@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankitrawat69&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitrawat69&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ankitrawat69&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitrawat69&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -42,6 +42,16 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---

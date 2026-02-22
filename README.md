@@ -7,7 +7,7 @@
 <h3 align="center">💻 Java Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4B79A1&size=22&center=true&vCenter=true&width=600&lines=Java+Developer;Core+Java+Enthusiast;Learning+Spring+Boot;Learning+Angular;Building+Backend+Skills" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4B79A1&size=22&center=true&vCenter=true&width=600&lines=Java+Developer;Learning+Spring+Boot;Learning+Angular;Building+Backend+Skills" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 - 🌱 Currently learning **Spring Boot & Angular**  
 - 🧠 Exploring **Microservices & REST APIs**  
 - 🎯 Goal: Become a skilled Full Stack Java Developer  
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **ankitrawat0988@gmail.com**
 
 ## 🚀 Currently Exploring
 

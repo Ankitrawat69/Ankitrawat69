@@ -49,13 +49,11 @@
 </p>
 
 ---
-
-## 🏆 TROPHIES
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ankitrawat69&theme=flat&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitrawat69&theme=react-dark&hide_border=true" />
 </p>
----
 
 ## 🐍 CONTRIBUTION SNAKE
 

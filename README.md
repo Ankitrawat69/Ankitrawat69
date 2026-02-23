@@ -45,21 +45,6 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ankitrawat69&theme=github_dark"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ankitrawat69&theme=github_dark"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<p align="center">
   ⭐ From <a href="https://github.com/Ankitrawat69">Ankitrawat69</a>
 </p>
 

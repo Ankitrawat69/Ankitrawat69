@@ -229,23 +229,31 @@ Designing deployment workflows that reduce manual work and improve delivery reli
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankitrawat69&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="175"/>
-
-<img src="https://streak-stats.demolab.com?user=Ankitrawat69&theme=tokyonight&hide_border=true" height="175"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitrawat69&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Ankitrawat69&theme=tokyonight&hide_border=true" height="180"/>
 
 </div>
 
 ---
 
-## 📈 CONTRIBUTION ACTIVITY
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitrawat69&theme=tokyo-night&hide_border=true&area=true"/>
+<picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake-dark.svg">
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake.svg">
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake.svg">
+
+</picture>
 
 </div>
 
@@ -269,22 +277,23 @@ and scalable enough to grow.**
 
 ---
 
-## 🤝 LET'S CONNECT
+## 🎯 CURRENT FOCUS
 
 <div align="center">
 
-<a href="mailto:ankitrawat0988@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-ankitrawat0988%40gmail.com-0B0F14?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-<a href="https://github.com/Ankitrawat69">
-<img src="https://img.shields.io/badge/GITHUB-Ankitrawat69-0B0F14?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:111827,100:050505&height=130&section=footer"/>
-
-### ✨ Thanks for visiting my profile!
-
-</div>
+```text
+JAVA
+  ↓
+SPRING BOOT
+  ↓
+REST APIs
+  ↓
+MICROSERVICES
+  ↓
+DOCKER
+  ↓
+JENKINS
+  ↓
+KUBERNETES
+  ↓
+AWS

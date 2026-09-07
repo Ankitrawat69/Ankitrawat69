@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+Microservices;REST+API+%7C+Docker+%7C+Jenkins;Building+Software+That+Scales."/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+Microservices;REST+APIs+%7C+Docker+%7C+Jenkins;Building+Software+That+Scales."/>
 
 <br><br>
 
@@ -30,15 +30,15 @@
 
 ### Hey, I'm **Ankit Rawat** 👋
 
-**Java Full Stack Developer** focused on building
+**Java Full Stack Developer** focused on building  
 **scalable backend systems, modern web applications and automated deployments.**
 
-I enjoy turning complex requirements into clean APIs,
+I enjoy turning complex requirements into clean APIs,  
 maintainable architecture and production-ready applications.
 
 <br>
 
-`CODE`  →  `BUILD`  →  `AUTOMATE`  →  `DEPLOY`  →  `SCALE`
+`CODE` → `BUILD` → `AUTOMATE` → `DEPLOY` → `SCALE`
 
 </div>
 
@@ -48,16 +48,17 @@ maintainable architecture and production-ready applications.
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
 ### ☕
 
 **BACKEND**
 
-Java
-Spring Boot
-Hibernate
-REST APIs
+Java  
+Spring Boot  
+Hibernate  
+REST APIs  
 Microservices
 
 </td>
@@ -68,10 +69,10 @@ Microservices
 
 **FRONTEND**
 
-Angular
-JavaScript
-HTML
-CSS
+Angular  
+JavaScript  
+HTML  
+CSS  
 REST Integration
 
 </td>
@@ -82,10 +83,10 @@ REST Integration
 
 **DEVOPS**
 
-Docker
-Jenkins
-Git
-Linux
+Docker  
+Jenkins  
+Git  
+Linux  
 Kubernetes
 
 </td>
@@ -96,13 +97,14 @@ Kubernetes
 
 **CLOUD**
 
-AWS
-Terraform
-CI/CD
-Cloud Infrastructure
+AWS  
+Terraform  
+CI/CD  
+Cloud Infrastructure  
 Security
 
 </td>
+
 </tr>
 </table>
 
@@ -211,13 +213,13 @@ Designing deployment workflows that reduce manual work and improve delivery reli
 
 <div align="center">
 
-| Area | Focus                                    |
-| :--: | :--------------------------------------- |
-|  ☸️  | **Kubernetes** — Container orchestration |
-|  🏗️ | **Terraform** — Infrastructure as Code   |
-|  ☁️  | **AWS** — Cloud architecture             |
-|  🔐  | **Cloud Security** — Secure deployments  |
-|  🧩  | **Microservices** — Distributed systems  |
+| Area | Focus |
+| :---: | :--- |
+| ☸️ | **Kubernetes** — Container orchestration |
+| 🏗️ | **Terraform** — Infrastructure as Code |
+| ☁️ | **AWS** — Cloud architecture |
+| 🔐 | **Cloud Security** — Secure deployments |
+| 🧩 | **Microservices** — Distributed systems |
 
 </div>
 
@@ -227,13 +229,13 @@ Designing deployment workflows that reduce manual work and improve delivery reli
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ankitrawat69&show_icons=true&hide_border=true&theme=transparent&title_color=00C6FF&icon_color=00C6FF&text_color=FFFFFF&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ankitrawat69&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="175"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitrawat69&theme=transparent&hide_border=true&ring=00C6FF&fire=00C6FF&currStreakLabel=00C6FF" height="175"/>
+<img src="https://streak-stats.demolab.com?user=Ankitrawat69&theme=tokyonight&hide_border=true" height="175"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitrawat69&layout=compact&hide_border=true&theme=transparent&title_color=00C6FF&text_color=FFFFFF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitrawat69&layout=compact&theme=tokyonight&hide_border=true" height="175"/>
 
 </div>
 
@@ -243,7 +245,7 @@ Designing deployment workflows that reduce manual work and improve delivery reli
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitrawat69&bg_color=00000000&color=00C6FF&line=00C6FF&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitrawat69&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
@@ -255,8 +257,8 @@ Designing deployment workflows that reduce manual work and improve delivery reli
 
 **I believe good software is more than code.**
 
-It's about writing something that is
-**clean enough to understand, reliable enough to trust,
+It's about writing something that is  
+**clean enough to understand, reliable enough to trust,  
 and scalable enough to grow.**
 
 <br>

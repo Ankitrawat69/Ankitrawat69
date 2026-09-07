@@ -1,21 +1,24 @@
 <div align="center">
 
-<!-- HERO -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0F172A,100:00E5FF&height=230&section=header&text=ANKIT%20RAWAT&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20DevOps%20%7C%20Cloud&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111827,100:00E5FF&height=180&section=header&text=ANKIT%20RAWAT&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=JAVA%20FULL%20STACK%20DEVELOPER%20%7C%20DEVOPS%20%7C%20CLOUD&descAlignY=64&descSize=16" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+REST+APIs;Docker+%7C+Jenkins+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Linux;Building+Scalable+%26+Production-Ready+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+Microservices;Docker+%7C+Jenkins+%7C+Kubernetes;AWS+%7C+Terraform+%7C+Linux;Build+%7C+Deploy+%7C+Automate+%7C+Repeat" />
 
 <br><br>
 
 <a href="mailto:ankitrawat0988@gmail.com">
-<img src="https://img.shields.io/badge/Email-ankitrawat0988%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-ankitrawat0988%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
 </a>
 
+&nbsp;
+
 <a href="https://github.com/Ankitrawat69">
-<img src="https://img.shields.io/badge/GitHub-Ankitrawat69-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-Ankitrawat69-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
+
+&nbsp;
 
 <img src="https://komarev.com/ghpvc/?username=Ankitrawat69&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"/>
 
@@ -23,35 +26,55 @@
 
 ---
 
-# 👋 Hey, I'm Ankit Rawat
+## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<table>
+<tr>
 
-### 💻 Java Full Stack Developer
+<td width="60%" valign="top">
 
-I'm a developer passionate about building **scalable, clean and production-ready applications**.
+### Hi, I'm Ankit Rawat 👋
 
-I mainly work with:
+I'm a **Java Full Stack Developer** passionate about building **scalable, reliable and production-ready applications**.
 
-- ☕ Java
-- 🌱 Spring Boot
-- 🧩 Microservices
-- 🌐 REST APIs
-- 🎨 Angular
-- 🗄️ MySQL / PostgreSQL / MongoDB
-- 🐳 Docker
-- 🔄 Jenkins
-- ☸️ Kubernetes
-- ☁️ AWS
-- 🏗️ Terraform
+I work across **backend, frontend, DevOps and cloud**, with a strong focus on Java and Spring Boot.
 
-Currently focused on improving my skills in **DevOps, Cloud, Kubernetes, Terraform and Cloud Security**.
+<br>
 
-<br clear="right"/>
+### ⚡ What I Work With
+
+☕ **Java & Spring Boot**  
+🌐 **REST APIs & Microservices**  
+🎨 **Angular & JavaScript**  
+🐳 **Docker & CI/CD**  
+☸️ **Kubernetes**  
+☁️ **AWS & Terraform**  
+🐧 **Linux & Git**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-Developer-00E5FF?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-Boot-00E5FF?style=flat-square&logo=spring&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Angular-Developer-00E5FF?style=flat-square&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/DevOps-Engineer-00E5FF?style=flat-square&logo=docker&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ⚡ Tech Stack
+## 🧬 Tech Stack
 
 <div align="center">
 
@@ -61,7 +84,7 @@ Currently focused on improving my skills in **DevOps, Cloud, Kubernetes, Terrafo
 
 <br>
 
-`Java` `Spring Boot` `Spring MVC` `Hibernate` `JPA` `REST API` `Microservices`
+`Java` &nbsp; `Spring Boot` &nbsp; `Spring MVC` &nbsp; `Hibernate` &nbsp; `JPA`
 
 <br><br>
 
@@ -71,17 +94,7 @@ Currently focused on improving my skills in **DevOps, Cloud, Kubernetes, Terrafo
 
 <br>
 
-`Angular` `JavaScript` `HTML5` `CSS3` `JSP` `JSTL`
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"/>
-
-<br>
-
-`MySQL` `PostgreSQL` `MongoDB`
+`Angular` &nbsp; `JavaScript` &nbsp; `HTML5` &nbsp; `CSS3`
 
 <br><br>
 
@@ -91,133 +104,183 @@ Currently focused on improving my skills in **DevOps, Cloud, Kubernetes, Terrafo
 
 <br>
 
-`Docker` `Kubernetes` `Jenkins` `AWS` `Terraform` `Linux`
+`Docker` &nbsp; `Jenkins` &nbsp; `Kubernetes` &nbsp; `AWS` &nbsp; `Terraform` &nbsp; `Linux`
 
 <br><br>
 
-### 🛠️ Tools
+### 🗄️ Database & Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,maven,eclipse&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,gitlab,maven&theme=dark"/>
 
 </div>
 
 ---
 
-# 🚀 What I Do
+## 🚀 What I Build
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="25%">
 
-### ☕
-### Backend
+<td width="50%" valign="top">
 
-Spring Boot  
-REST APIs  
-Hibernate  
-Microservices
+### ⚙️ Backend Engineering
 
-</td>
-
-<td align="center" width="25%">
-
-### 🎨
-### Frontend
-
-Angular  
-JavaScript  
-HTML  
-CSS
+- Spring Boot Applications
+- RESTful APIs
+- Microservices
+- Hibernate / JPA
+- Authentication & Security
+- Database-driven systems
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🐳
-### DevOps
+### ☁️ DevOps & Cloud
 
-Docker  
-Jenkins  
-Kubernetes  
-CI/CD
+- Dockerized Applications
+- CI/CD Pipelines
+- Jenkins Automation
+- Kubernetes Deployment
+- AWS Infrastructure
+- Terraform / IaC
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎨 Frontend Development
+
+- Angular Applications
+- REST API Integration
+- JavaScript
+- Responsive UI
+- Component Architecture
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### ☁️
-### Cloud
+### 🧩 Architecture
 
-AWS  
-Terraform  
-Linux  
-Cloud Security
+- MVC Architecture
+- Layered Architecture
+- Microservices
+- REST Architecture
+- Scalable Systems
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🛠️ Featured Projects
+## 🐍 Contribution Snake
 
-## 🏆 Online Result System
+<div align="center">
 
-> **Java • JSP • Servlet • Hibernate • MySQL • JasperReports**
+### 🐍 My GitHub Contributions
 
-A complete **Online Result Management System** developed using MVC architecture.
+<br>
 
-### ✨ Features
+<picture>
 
-- 🔐 Authentication & Authorization
-- 👨‍🎓 Student Management
-- 📚 Course Management
-- 📝 Result Management
-- 📊 Result Processing
-- 📄 JasperReports
-- 🗄️ MySQL Database
-- 🧩 MVC Architecture
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake-dark.svg">
 
----
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake.svg">
 
-## 🚀 ORS Project 10
+<img
+src="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+width="100%">
 
-> **Spring Boot • Angular • MySQL • Docker • Jenkins**
+</picture>
 
-Full-stack enterprise application with separate **Spring Boot backend** and **Angular frontend**.
+<br><br>
 
-### ✨ Features
+`CODE` → `COMMIT` → `CONTRIBUTE` → `REPEAT`
 
-- ⚡ REST APIs
-- 🎨 Angular UI
-- 🔐 Spring Security
-- 🗄️ MySQL
-- 🐳 Docker
-- 🔄 Jenkins CI/CD
-- 🧩 Modular Architecture
-- ☁️ Deployment Ready
+</div>
 
 ---
 
-## ☁️ DevOps & Cloud Projects
+## 🔥 GitHub Streak
 
-> **Docker • Kubernetes • Jenkins • AWS • Terraform**
+<div align="center">
 
-Hands-on projects focused on:
+<img src="https://streak-stats.demolab.com?user=Ankitrawat69&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="75%"/>
 
-```text
-Containerization
-      ↓
-Docker
-      ↓
-CI/CD
-      ↓
-Jenkins
-      ↓
-Kubernetes
-      ↓
-AWS
-      ↓
-Terraform
-      ↓
-Infrastructure as Code
+</div>
+
+---
+
+## 🧠 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,jenkins,linux&theme=dark"/>
+
+<br><br>
+
+`Advanced Docker` • `Kubernetes` • `AWS` • `Terraform`
+
+<br>
+
+`CI/CD` • `Cloud Security` • `Microservices`
+
+</div>
+
+---
+
+## 🎯 Developer Mindset
+
+<div align="center">
+
+### `LEARN` → `BUILD` → `AUTOMATE` → `DEPLOY` → `IMPROVE`
+
+<br>
+
+> **"Don't just write code. Build solutions that scale."**
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:ankitrawat0988@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-ankitrawat0988%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Ankitrawat69">
+<img src="https://img.shields.io/badge/GITHUB-Ankitrawat69-0F172A?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+
+<br><br>
+
+### ☕ Java &nbsp; • &nbsp; 🌱 Spring Boot &nbsp; • &nbsp; 🎨 Angular &nbsp; • &nbsp; 🐳 DevOps &nbsp; • &nbsp; ☁️ Cloud
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:111827,100:050816&height=110&section=footer" width="100%"/>
+
+### ⚡ Build. Deploy. Learn. Repeat.
+
+</div>

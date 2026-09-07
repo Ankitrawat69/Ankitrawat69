@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ANKIT%20RAWAT&fontSize=65&fontColor=ffffff&color=0:050505,50:111827,100:00c6ff&stroke=00c6ff&strokeWidth=1&animation=twinkling&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0F172A,70:0369A1,100:00C6FF&height=260&section=header&text=ANKIT%20RAWAT&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+Angular+%7C+Microservices;REST+APIs+%7C+Docker+%7C+Jenkins;Building+Software+That+Scales."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=850&lines=JAVA+FULL+STACK+DEVELOPER;SPRING+BOOT+%7C+ANGULAR+%7C+MICROSERVICES;REST+APIs+%7C+DOCKER+%7C+JENKINS;BUILDING+SCALABLE+SOFTWARE;AUTOMATE.+DEPLOY.+SCALE."/>
 
 <br><br>
 
-<a href="https://github.com/Ankitrawat69">
-<img src="https://img.shields.io/github/followers/Ankitrawat69?label=Followers&style=for-the-badge&logo=github&color=161b22"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Ankitrawat69&label=PROFILE+VIEWS&style=for-the-badge&color=00C6FF"/>
 
 <a href="https://github.com/Ankitrawat69">
-<img src="https://img.shields.io/github/stars/Ankitrawat69?label=Stars&style=for-the-badge&logo=github&color=161b22"/>
+<img src="https://img.shields.io/badge/GITHUB-ANKITRAWAT69-0B0F14?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Ankitrawat69&label=Visitors&style=for-the-badge&color=00c6ff"/>
+<a href="mailto:ankitrawat0988@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-0B0F14?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
 
 </div>
 
@@ -26,135 +26,151 @@
 
 <div align="center">
 
-## ✦ ABOUT ME
+# 👨‍💻 WHO AM I?
 
 ### Hey, I'm **Ankit Rawat** 👋
 
-**Java Full Stack Developer** focused on building  
-**scalable backend systems, modern web applications and automated deployments.**
+**Java Full Stack Developer** who loves turning ideas into  
+**scalable applications, clean APIs and automated deployments.**
 
-I enjoy turning complex requirements into clean APIs,  
-maintainable architecture and production-ready applications.
+I work across the complete development lifecycle —  
+from **backend architecture** and **frontend development**  
+to **Docker, CI/CD and cloud deployment**.
 
 <br>
 
-`CODE` → `BUILD` → `AUTOMATE` → `DEPLOY` → `SCALE`
+### `CODE` ⚡ `BUILD` ⚡ `AUTOMATE` ⚡ `DEPLOY` ⚡ `SCALE`
 
 </div>
 
 ---
 
-## 🧬 MY ENGINEERING DNA
+# 🧠 MY TECH UNIVERSE
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### ☕
+## ☕ BACKEND
 
-**BACKEND**
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven" />
 
-Java  
-Spring Boot  
-Hibernate  
-REST APIs  
-Microservices
+<br><br>
 
-</td>
-
-<td align="center" width="25%">
-
-### 🎯
-
-**FRONTEND**
-
-Angular  
-JavaScript  
-HTML  
-CSS  
-REST Integration
+`Java`  
+`Spring Boot`  
+`Spring MVC`  
+`Hibernate`  
+`REST APIs`  
+`Microservices`  
+`JWT`
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### ⚡
+## 🎨 FRONTEND
 
-**DEVOPS**
+<img src="https://skillicons.dev/icons?i=angular,js,html,css" />
 
-Docker  
-Jenkins  
-Git  
-Linux  
-Kubernetes
+<br><br>
+
+`Angular`  
+`JavaScript`  
+`HTML5`  
+`CSS3`  
+`REST Integration`  
+`Responsive UI`
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
-### ☁️
+## ☁️ DEVOPS
 
-**CLOUD**
+<img src="https://skillicons.dev/icons?i=docker,jenkins,kubernetes,aws" />
 
-AWS  
-Terraform  
-CI/CD  
-Cloud Infrastructure  
-Security
+<br><br>
+
+`Docker`  
+`Jenkins`  
+`Kubernetes`  
+`AWS`  
+`Linux`  
+`CI/CD`  
+`Terraform`
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🛠️ TECHNOLOGIES I WORK WITH
+# 🛠️ TECHNOLOGIES
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,js,html,css,mysql,postgres,mongodb,docker,jenkins,kubernetes,aws,terraform,linux,git,github&perline=9"/>
+### Languages & Frameworks
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,angular,js,html,css,maven"/>
+
+<br><br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
+
+<br><br>
+
+### DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,docker,kubernetes,linux,aws,terraform"/>
 
 </div>
 
 ---
 
-## 🚀 THINGS I BUILD
+# 🚀 WHAT I BUILD
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🔷 Backend Engineering
+## 🔷 BACKEND
 
-I build backend systems around:
+Building robust backend systems with:
 
-* RESTful API design
-* Spring Boot applications
-* Authentication & Authorization
-* JWT security
-* Database-driven applications
-* Exception handling
-* Microservices
-* API integration
+- ⚡ Spring Boot
+- 🔌 RESTful APIs
+- 🔐 JWT Authentication
+- 🛡️ Authorization
+- 🗄️ Database Integration
+- 🧩 Microservices
+- 🚨 Exception Handling
+- ✅ API Validation
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔶 Full Stack Development
+## 🔶 FULL STACK
 
-I connect the entire application layer:
+Connecting frontend and backend:
 
-* Angular applications
-* Spring Boot APIs
-* SQL / NoSQL databases
-* API integration
-* Responsive interfaces
-* Secure authentication
-* End-to-end workflows
+- 🎨 Angular Applications
+- ☕ Spring Boot APIs
+- 🔄 REST Integration
+- 🗃️ SQL / NoSQL
+- 🔐 Secure Authentication
+- 📱 Responsive Interfaces
+- 🧱 MVC Architecture
 
 </td>
 
@@ -164,136 +180,19 @@ I connect the entire application layer:
 
 <td width="50%" valign="top">
 
-### 🟣 DevOps & Automation
+## 🟣 DEVOPS
 
-Turning manual deployments into automated workflows:
-
-`Git` → `Jenkins` → `Docker` → `Kubernetes`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🟢 Cloud & Infrastructure
-
-Exploring modern cloud infrastructure with:
-
-`AWS` • `Terraform` • `Containers` • `Cloud Security`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📌 FEATURED WORK
-
-<div align="center">
-
-### 🏆 FULL STACK APPLICATIONS
-
-**Angular + Spring Boot + REST API + Database**
-
-Building complete applications with clean separation between frontend, backend and data layers.
-
-<br>
-
-### ⚙️ AUTOMATED DEPLOYMENTS
-
-**Jenkins + Docker + Kubernetes + AWS**
-
-Designing deployment workflows that reduce manual work and improve delivery reliability.
-
-</div>
-
----
-
-## 🌱 CURRENTLY LEVELING UP
-
-<div align="center">
-
-| Area | Focus |
-| :---: | :--- |
-| ☸️ | **Kubernetes** — Container orchestration |
-| 🏗️ | **Terraform** — Infrastructure as Code |
-| ☁️ | **AWS** — Cloud architecture |
-| 🔐 | **Cloud Security** — Secure deployments |
-| 🧩 | **Microservices** — Distributed systems |
-
-</div>
-
----
-
-## 📊 GITHUB PERFORMANCE
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ankitrawat69&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake.svg">
-
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/Ankitrawat69/Ankitrawat69/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## 💭 A LITTLE ABOUT HOW I WORK
-
-**I believe good software is more than code.**
-
-It's about writing something that is  
-**clean enough to understand, reliable enough to trust,  
-and scalable enough to grow.**
-
-<br>
-
-### ⚡ `BUILD WITH PURPOSE. DEPLOY WITH CONFIDENCE.`
-
-</div>
-
----
-
-## 🎯 CURRENT FOCUS
-
-<div align="center">
+Turning code into deployments:
 
 ```text
-JAVA
-  ↓
-SPRING BOOT
-  ↓
-REST APIs
-  ↓
-MICROSERVICES
-  ↓
-DOCKER
-  ↓
-JENKINS
-  ↓
-KUBERNETES
-  ↓
-AWS
+Git
+ ↓
+Jenkins
+ ↓
+Build
+ ↓
+Docker
+ ↓
+Kubernetes
+ ↓
+Deployment
